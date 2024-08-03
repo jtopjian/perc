@@ -2,8 +2,8 @@
 
 A [Norns](https://monome.org/docs/norns/) script that Generates random drum/percussion patterns
 
-![Perc](doc/perc.png)
-![Perc](doc/perc_2.png)
+![Perc](doc/perc_1.gif)
+![Perc](doc/perc_2.gif)
 
 ## About
 
